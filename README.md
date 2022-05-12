@@ -1,4 +1,4 @@
-<h1>Implementing serverless application using web identity federation</h1>
+<h1>Implementing Serverless Application Uing Wb Ientity Federation</h1>
 
 <h2>Description</h2>
 Project consists of a simple static website created in AWS. The project provides a step by step guide on how to build the static website and what the end result would look like.
