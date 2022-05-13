@@ -70,11 +70,27 @@ Once created I was presented with my client ID and secret password which I neede
 <img src="https://i.imgur.com/F1ql4zX.png" height="80%" width="80%" alt="Image 12"/>
 
 
-<H3>Step 2 – Enable static website hosting </H3>
-Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
-<img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
+<H3>Step 2 - Create cognito identity pool</H3>
+In the AWS console I went to Cognito section and clicked on manage identity pools.
+
+Create an identity pool name, expand the authentication providers section click on Google+ and enter in the client ID, click create pool.
+
+<img src="https://i.imgur.com/CiRZmSs.png" height="80%" width="80%" alt="Image 13"/>
 <br />
 <br />
+
+
+
+
+
+
+
+
+
+
+
+
+
 In the index document section make sure you have added index.html and error.html in the correct text area, click save changes.
 <img src="https://i.imgur.com/agU4L6a.png" height="80%" width="80%" alt="Image 6"/>
 <br />
