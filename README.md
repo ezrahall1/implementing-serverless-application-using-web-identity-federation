@@ -82,11 +82,11 @@ Create an identity pool name, expand the authentication providers section click 
 Click on allow to create these roles.
 <img src="https://imgur.com/a/Up5934N" height="80%" width="80%" alt="Image 14"/>
 
+I noted down the identity pool ID and clicked on go to dashboard.
 
+<img src="https://i.imgur.com/M1bgNkJ.png" height="80%" width="80%" alt="Image 15"/>
 
-
-
-
+From there I moved to the IAM section, clicked on roles, scroll down to find Cognito_PetIDFIDPoolAuth_Role and selected it, clicked on permissions tab then click on attach policies search for PrivatePatchesPermissions, tick the box and select attach policy
 
 
 
