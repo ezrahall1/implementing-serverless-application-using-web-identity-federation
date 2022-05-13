@@ -61,6 +61,14 @@ I clicked on create credentials and selected OAuth client ID
 <img src="https://i.imgur.com/aJO8szJ.png" height="80%" width="80%" alt="Image 10"/>
 
 
+I filled out the OAuth client ID information with the below details.
+
+<img src="https://i.imgur.com/7PVXYBP.png" height="80%" width="80%" alt="Image 11"/>
+
+Once created I was presented with my client ID and secret password which I needed to make a note of for later.
+
+<img src="https://i.imgur.com/F1ql4zX.png" height="80%" width="80%" alt="Image 12"/>
+
 
 <H3>Step 2 – Enable static website hosting </H3>
 Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
