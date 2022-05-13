@@ -54,6 +54,9 @@ For the next three sections I left as default.
 
 I clicked on the credentials tab, this is where I created the API credentials that my serverless application will use to communicate with the Google identity Provider.
 
+<img src="https://i.imgur.com/KbMfu5I.png" height="80%" width="80%" alt="Image 9"/>
+
+
 
 
 <H3>Step 2 – Enable static website hosting </H3>
