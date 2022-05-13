@@ -42,6 +42,10 @@ I filled in the app information with the below details, and click save and conti
 <br />
 <img src="https://i.imgur.com/jt5X7rA.png" height="80%" width="80%" alt="Image 5"/>
 
+For the next three sections I left as default.
+
+<img src="https://i.imgur.com/daUR9f1.png" height="80%" width="80%" alt="Image 6"/>
+
 
 <H3>Step 2 – Enable static website hosting </H3>
 Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
