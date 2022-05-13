@@ -36,10 +36,13 @@ Select external, then click on create
 
 <br />
 <br />
-Leave everything else as default scroll to the bottom and click create bucket. <br/>
 <img src="https://i.imgur.com/gzZEhX5.png" height="80%" width="80%" alt="Image 4"/>
+I filled in the app information with the below details, and click save and continue.
 <br />
 <br />
+<img src="https://i.imgur.com/jt5X7rA.png" height="80%" width="80%" alt="Image 5"/>
+
+
 <H3>Step 2 – Enable static website hosting </H3>
 Click on the name of your bucket, then click on properties scroll down to the bottom where it says static website hosting and click on edit. Click on enable and make sure host a static website is selected.
 <img src="https://i.imgur.com/D92cAzu.png" height="80%" width="80%" alt="Image 4"/>
