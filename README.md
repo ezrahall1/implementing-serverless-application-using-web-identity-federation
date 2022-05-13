@@ -80,7 +80,7 @@ Create an identity pool name, expand the authentication providers section click 
 <br />
 
 Click on allow to create these roles.
-<img src="https://imgur.com/a/Up5934N" height="80%" width="80%" alt="Image 14"/>
+<img src="https://i.imgur.com/4JoIf1M.png" height="80%" width="80%" alt="Image 14"/>
 
 I noted down the identity pool ID and clicked on go to dashboard.
 
@@ -88,8 +88,14 @@ I noted down the identity pool ID and clicked on go to dashboard.
 
 From there I moved to the IAM section, clicked on roles, scroll down to find Cognito_PetIDFIDPoolAuth_Role and selected it, clicked on permissions tab then click on attach policies search for PrivatePatchesPermissions, tick the box and select attach policy
 
+<H3>Step 3 - Update app bucket & test application</H3>
+In the S3 bucket called webidf-appbucket-yrbll2jyqjxb I download two files called index.html and scripts.js. to my local system. Once downloaded I edited them to include the Google client ID the and Identity Pool ID
 
+I used my static web hosting URL link to test the application.
 
+img src="https://i.imgur.com/cA7uWpT.png" height="80%" width="80%" alt="Image 16"/>
+
+img src="https://i.imgur.com/4HIrQIy.png" height="80%" width="80%" alt="Image 17"/>
 
 In the index document section make sure you have added index.html and error.html in the correct text area, click save changes.
 <img src="https://i.imgur.com/agU4L6a.png" height="80%" width="80%" alt="Image 6"/>
