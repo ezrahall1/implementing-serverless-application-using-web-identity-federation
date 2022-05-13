@@ -97,26 +97,6 @@ img src="https://i.imgur.com/cA7uWpT.png" height="80%" width="80%" alt="Image 16
 
 img src="https://i.imgur.com/4HIrQIy.png" height="80%" width="80%" alt="Image 17"/>
 
-In the index document section make sure you have added index.html and error.html in the correct text area, click save changes.
-<img src="https://i.imgur.com/agU4L6a.png" height="80%" width="80%" alt="Image 6"/>
-<br />
-<br />
-Scroll down to static website hosting section and make a note of your bucket URL.
-<img src="https://i.imgur.com/bCb30OR.png" height="80%" width="80%" alt="Image 7"/>
-
-The next step is to upload some objects to the bucket you have created. In order to do that you would need to scroll to the top of the page and click on objects, then click on upload.
-
-Click on upload, click on add files and add the two html files (index.html and error.html). 
-<img src="https://i.imgur.com/AQICKJI.png" height="80%" width="80%" alt="Image 8"/>
-<H3>Step 3 – Grant permissions</H3>
-The next step is you need to grant permissions to be able to read these objects. You would need to create a bucket policy. Click on the permission tab scroll down to where is says bucket policy click on edit. When entering the policy details remember to update the arn so it is not the same as mine or else it would not work, click on save changes.
-<img src="https://i.imgur.com/mlZjKBx.png" height="80%" width="80%" alt="Image 9"/>
-Based on the policy you have created you will now see a red banner stating, “publicly accessible”, which means the bucket can be access by anyone.
-
-<img src="https://i.imgur.com/PGbBV1i.png" height="80%" width="80%" alt="Image 10"/>
-
-This shows that I successfully created a static website in AWS
-<img src="https://i.imgur.com/c8KFtkW.png" height="80%" width="80%" alt="Image 10"/>
 
 </p>
 
