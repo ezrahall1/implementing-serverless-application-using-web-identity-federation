@@ -37,7 +37,7 @@ Select external, then click on create
 <br />
 <br />
 Leave everything else as default scroll to the bottom and click create bucket. <br/>
-<img src="https://i.imgur.com/OlsCav4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gzZEhX5.png" height="80%" width="80%" alt="Image 4"/>
 <br />
 <br />
 <H3>Step 2 – Enable static website hosting </H3>
