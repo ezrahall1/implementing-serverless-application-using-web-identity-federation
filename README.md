@@ -30,8 +30,10 @@ I clicked on select a project>new project and entered in PETIDF>click create
 <br />
 I clicked on configure consent screen, as this is where you configure various permissions and access right of the application.
 
+<img src="https://i.imgur.com/IId20CI.png" height="80%" width="80%" alt="Image 3"/>
 
-<img src="https://i.imgur.com/vn34t2z.png" height="80%" width="80%" alt="Image 3"/>
+Select external, then click on create
+
 <br />
 <br />
 Leave everything else as default scroll to the bottom and click create bucket. <br/>
