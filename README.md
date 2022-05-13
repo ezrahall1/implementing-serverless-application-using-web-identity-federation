@@ -56,6 +56,9 @@ I clicked on the credentials tab, this is where I created the API credentials th
 
 <img src="https://i.imgur.com/KbMfu5I.png" height="80%" width="80%" alt="Image 9"/>
 
+I clicked on create credentials and selected OAuth client ID
+
+<img src="https://i.imgur.com/aJO8szJ.png" height="80%" width="80%" alt="Image 10"/>
 
 
 
