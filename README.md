@@ -93,9 +93,9 @@ In the S3 bucket called webidf-appbucket-yrbll2jyqjxb I download two files calle
 
 I used my static web hosting URL link to test the application.
 
-img src="https://i.imgur.com/WTRDt60.png" height="80%" width="80%" alt="Image 16"/>
+<img src="https://i.imgur.com/WTRDt60.png" height="80%" width="80%" alt="Image 16"/>
 
-img src="https://i.imgur.com/4HIrQIy.png" height="80%" width="80%" alt="Image 17"/>
+<img src="https://i.imgur.com/4HIrQIy.png" height="80%" width="80%" alt="Image 17"/>
 
 
 </p>
