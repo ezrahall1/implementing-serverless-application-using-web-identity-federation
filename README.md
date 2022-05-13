@@ -43,8 +43,13 @@ I filled in the app information with the below details, and click save and conti
 <img src="https://i.imgur.com/jt5X7rA.png" height="80%" width="80%" alt="Image 5"/>
 
 For the next three sections I left as default.
-
 <img src="https://i.imgur.com/daUR9f1.png" height="80%" width="80%" alt="Image 6"/>
+
+
+<img src="https://i.imgur.com/wl1Bp2P.png" height="80%" width="80%" alt="Image 7"/>
+
+
+
 
 
 <H3>Step 2 – Enable static website hosting </H3>
