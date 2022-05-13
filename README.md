@@ -25,10 +25,12 @@ https://console.developers.google.com/apis/credentials:
 I clicked on select a project>new project and entered in PETIDF>click create
 <br />
 <br />
-<img src="https://i.imgur.com/YLFvbiO.png" height="80%" width="80%" alt="Image 2"/>
+<img src="blob:https://imgur.com/955a9b37-11b4-4417-9cc9-1d0927f1b995" height="80%" width="80%" alt="Image 2"/>
 <br />
 <br />
-Tick the acknowledge box to show that you understand the changes you are making. <br/>
+I clicked on configure consent screen, as this is where you configure various permissions and access right of the application.
+
+
 <img src="https://i.imgur.com/vn34t2z.png" height="80%" width="80%" alt="Image 3"/>
 <br />
 <br />
