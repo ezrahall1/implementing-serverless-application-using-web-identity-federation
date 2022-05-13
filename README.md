@@ -79,8 +79,8 @@ Create an identity pool name, expand the authentication providers section click 
 <br />
 <br />
 
-
-
+Click on allow to create these roles.
+<img src="https://imgur.com/a/Up5934N" height="80%" width="80%" alt="Image 14"/>
 
 
 
