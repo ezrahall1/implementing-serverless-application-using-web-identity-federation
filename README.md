@@ -13,6 +13,10 @@ Project consists of a simple static website created in AWS. The project provides
 
 - <b>AWS</b>
 
+<h2>YouTube Demonstration </h2>
+
+[Implementing serverless application using web identity federation - video walk-through guide](https://youtu.be/LJ7puRnf-2M)
+
 <h2>Program walk-through:</h2>
 <H3>Step 1 - Create Google API project & client ID</H3>
 
